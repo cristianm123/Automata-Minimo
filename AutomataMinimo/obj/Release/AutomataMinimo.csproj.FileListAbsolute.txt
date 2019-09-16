@@ -1,0 +1,9 @@
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\bin\Release\AutomataMinimo.exe.config
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\bin\Release\AutomataMinimo.exe
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\bin\Release\AutomataMinimo.pdb
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Release\AutomataMinimo.Form1.resources
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Release\AutomataMinimo.Properties.Resources.resources
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Release\AutomataMinimo.csproj.GenerateResource.cache
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Release\AutomataMinimo.csproj.CoreCompileInputs.cache
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Release\AutomataMinimo.exe
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Release\AutomataMinimo.pdb

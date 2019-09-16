@@ -1,0 +1,12 @@
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Debug\AutomataMinimo.csprojAssemblyReference.cache
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Debug\AutomataMinimo.Properties.Resources.resources
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Debug\AutomataMinimo.csproj.GenerateResource.cache
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Debug\AutomataMinimo.csproj.CoreCompileInputs.cache
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\bin\Debug\AutomataMinimo.exe.config
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\bin\Debug\AutomataMinimo.exe
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\bin\Debug\AutomataMinimo.pdb
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Debug\AutomataMinimo.exe
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Debug\AutomataMinimo.pdb
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Debug\AutomataMinimo.Interface.MooreInterface.resources
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Debug\AutomataMinimo.Interface.MealyInterface.resources
+C:\Users\crisf\source\repos\AutomataMinimo\AutomataMinimo\obj\Debug\AutomataMinimo.Inter.resources
